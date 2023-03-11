@@ -1,7 +1,7 @@
 <!--[![MasterHead](https://pasinfotech.com/wp-content/uploads/2019/06/flutter-banner.jpg)](https://jamal-and.github.io)-->
 
 <h1 align="center">Hi 👋, I'm Jamal Sfenjeh</h1>
-<h3 align="center">A Mobile App Developer from Syria</h3>
+<h3 align="center">A Mobile App Developer</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/c1dcb74cc1c1835b1d716f5051499a2814c683c806b15f04b0eba492863703e9/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jamal-and&label=Profile%20views&color=0e75b6&style=flat" alt="jamal-and" /> </p>
