@@ -19,28 +19,20 @@
 <h3 align="left">Connect with me:</h3>
 
 
- <p aling="left">
+<div>
 <a href="https://twitter.com/jamal_sfenjeh" target="blank">
-  <img align="center" width="40px" height='40px' alt="jamal_sfenjeh" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-       generator/master/src/images/icons/Social/twitter.svg"/>
+  <img align="center" width="60px" height='40px' alt="jamal_sfenjeh" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>
  </a>
-<a href="https://linkedin.com/in/jamal-sfenjeh" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jamal-sfenjeh" height="30" width="40" /></a>
-<a href="https://instagram.com/jamal_sfenjeh_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="jamal_sfenjeh_" height="30" width="40" /></a>
- </p>
  
- <div>
-<a href='https://twitter.com/jamal_sfenjeh'>
-  <img align="left" alt="Jamal Sfenjeh | medium" width="40px" height='40px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://linkedin.com/in/jamal-sfenjeh" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="jamal-sfenjeh" height="40px" width="60px" />
 </a>
-<a href='https://twitter.com/jamal_sfenjeh'>
-<img align="left"  alt="Jamal Sfenjeh | Twitter" width="40px" height='40px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://instagram.com/jamal_sfenjeh_" target="blank">
+  <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" alt="jamal_sfenjeh_" height="40px" width="60px" />
 </a>
-<a href='https://twitter.com/jamal_sfenjeh'>
- <img align="left"  alt="Jamal Sfenjeh | LinkedIn" width="40px" height='40px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
-</a>
-<a href='https://twitter.com/jamal_sfenjeh'>
- <img align="left" alt="Jamal Sfenjeh | hackerrank" width="40px" height='40px' src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/hackerrank.svg" />
-</a>
-  </div>
+</div>
+ 
+ 
 
 
 <h3 align="left">Languages and Tools:</h3>
