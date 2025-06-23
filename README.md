@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel**
 
-- 👨‍💻 All of my projects are available at [jamal-and.github.io](jamal-and.github.io)
+- 👨‍💻 All of my projects are available at [https:www.jamal-and.github.io](jamal-and.github.io)
 
 - 💬 Ask me about **Flutter, Android, IOS**
 
